@@ -4,5 +4,6 @@ This is a backend designing of transistor level circuitary of a Full-Adder circu
 
 
 Software used- HSPICE
+
 Tx Technology- CMOS 
 
